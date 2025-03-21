@@ -1,0 +1,10 @@
+## To learn about C7x DSP Architecture Need to learn some Basics
+1. SOC : [click here](/SoC.md)
+1. Memory Subsystem : [click here](./memory_subsystem.md)
+1. Computer Accelerators : [click here](./computer_accelerators.md)
+1. Floating Point Vs Fixed Point : [click here](./floating_and_fixed.md)
+1. DSP : [click here](./dsp.md)
+1. C67x Architecture : [click here](./c67xarchitecture.md)
+1. C7x Architecture : [click here](./chapter1-c7x-architecture.pdf)
+1. Streaming Engine : [click here](./streamengine.md)
+1. RTOS : [click here](./rtos.md)
